@@ -22,4 +22,3 @@ This project is inspired by the web development teachings of Colt Steele, whose 
 Thank you for visiting the Museum of Candy – where every day is a sugar-filled adventure! 🎈
 
 Made with ❤️ by Tarun Aaditya Aravindan 😊, inspired by Colt Steele's web development teachings.
-EOF
